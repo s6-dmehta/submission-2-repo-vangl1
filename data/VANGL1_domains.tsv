@@ -1,0 +1,7 @@
+start	end	name
+118	138	TM1
+152	172	TM2
+183	203	TM3
+223	243	TM4
+424	524	C_terminal_tail
+521	524	PDZ_binding_motif
