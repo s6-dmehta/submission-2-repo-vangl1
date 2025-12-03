@@ -60,7 +60,7 @@ This command creates all 3 directories at once and the -p flag ensures the comma
 
 ### `VANGL1_conservation.tsv`
 **What it is:** Cleaned per-residue conservation scores for human VANGL1.  
-**How I got it:** I imported the Rate4Site output into Python and extracted only the numeric columns needed for Figures 1 and 4.
+**How I got it:** I imported output into Python and extracted only the numeric columns needed for Figures 1 and 4.
 
 ---
 
