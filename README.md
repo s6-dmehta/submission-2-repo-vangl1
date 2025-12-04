@@ -1032,4 +1032,27 @@ To get a clean image of the table download the tsv by left click -> download
 
 You've Created table 1 !!
 
+
+9 Push any new files to the remote Git repository.
+Add all of your results to the repository, commit them, and push them to the remote repository at GitHub.com
+
+First, ensure you are in the main directory:
+
+```bash
+cd submission-2-repo-vangl1
+```
+ 
+Now, commit your changes. Make sure each line works before you continue with the next line. 
+
+```bash
+git status
+git add -A
+git commit -a -m "Final Push of All Figures."
+``` 
+Did all of the above work? Make sure! If so, then run the following command:
+
+```bash
+git push
+```
+
 ### The end. 
